@@ -104,6 +104,9 @@ const Wrapper = styled.main`
   background-size: cover;
   overflow: auto;
   min-height: 100vh;
+  h3 {
+    font-weight: 800;
+  }
   .white-container {
     /* margin: 9rem 2.4rem; */
     margin: 9rem auto;
